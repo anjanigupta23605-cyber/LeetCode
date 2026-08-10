@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0039-combination-sum](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0039-combination-sum) |
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0136-single-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -42,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
