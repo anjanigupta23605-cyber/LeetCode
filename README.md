@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0013-roman-to-integer) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0013-roman-to-integer) |
 ## Sliding Window
 |  |
 | ------- |
@@ -31,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Bit Manipulation
