@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0014-longest-common-prefix) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0014-longest-common-prefix) |
+## Enumeration
+|  |
+| ------- |
+| [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 <!---LeetCode Topics End-->
