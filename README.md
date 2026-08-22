@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0069-sqrtx) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -84,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
