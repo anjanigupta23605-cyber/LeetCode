@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0014-longest-common-prefix) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Sliding Window
 |  |
@@ -75,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -91,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4021-minimum-operations-to-make-a-rotated-palindrome-i](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/4021-minimum-operations-to-make-a-rotated-palindrome-i) |
 ## Newton's Method
 |  |
@@ -100,4 +104,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
+## Greedy
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
