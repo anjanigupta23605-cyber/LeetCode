@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0137-single-number-ii) |
 | [0189-rotate-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0137-single-number-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Binary Search
 |  |
