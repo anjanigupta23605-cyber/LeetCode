@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0137-single-number-ii) |
+| [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
@@ -108,9 +111,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
 ## Greedy
 |  |
 | ------- |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
