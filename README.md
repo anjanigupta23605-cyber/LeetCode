@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Array
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
