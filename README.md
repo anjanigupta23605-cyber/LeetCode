@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [4020-elevator-requests-i](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -137,4 +138,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [4020-elevator-requests-i](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/4020-elevator-requests-i) |
 <!---LeetCode Topics End-->
