@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
