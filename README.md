@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1480-running-sum-of-1d-array) |
