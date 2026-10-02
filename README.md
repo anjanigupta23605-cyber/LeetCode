@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0041-first-missing-positive) |
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0162-find-peak-element) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0061-rotate-list) |
+| [0088-merge-sorted-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0143-reorder-list) |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0148-sort-list](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0179-largest-number) |
