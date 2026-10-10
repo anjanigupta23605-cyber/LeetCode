@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1672-richest-customer-wealth](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [4020-elevator-requests-i](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/4020-elevator-requests-i) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0268-missing-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
 |  |
@@ -161,11 +163,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0268-missing-number) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Greedy
 |  |
 | ------- |
 | [0179-largest-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0179-largest-number) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Divide and Conquer
 |  |
@@ -276,4 +280,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0075-sort-colors) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
