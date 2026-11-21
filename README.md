@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1796-second-largest-digit-in-a-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [0229-majority-element-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0324-wiggle-sort-ii) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0229-majority-element-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0268-missing-number) |
 | [0324-wiggle-sort-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
@@ -186,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0229-majority-element-ii) |
 ## Simulation
 |  |
 | ------- |
