@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1480-running-sum-of-1d-array) |
+| [1572-matrix-diagonal-sum](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Trie
 |  |
