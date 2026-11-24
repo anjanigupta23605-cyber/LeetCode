@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0268-missing-number) |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1672-richest-customer-wealth](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1672-richest-customer-wealth) |
 ## Trie
 |  |
