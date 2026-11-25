@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0324-wiggle-sort-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0324-wiggle-sort-ii) |
 | [0485-max-consecutive-ones](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0724-find-pivot-index) |
+| [0867-transpose-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0867-transpose-matrix) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1672-richest-customer-wealth) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0258-add-digits) |
+| [0867-transpose-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
 | [4020-elevator-requests-i](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/4020-elevator-requests-i) |
 ## Linked List
