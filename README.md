@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0041-first-missing-positive) |
+| [0054-spiral-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1572-matrix-diagonal-sum) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0054-spiral-matrix) |
 | [0258-add-digits](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0258-add-digits) |
 | [0867-transpose-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0867-transpose-matrix) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/2149-rearrange-array-elements-by-sign) |
