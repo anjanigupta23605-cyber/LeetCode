@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0041-first-missing-positive) |
+| [0048-rotate-image](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0075-sort-colors) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0189-rotate-array) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0054-spiral-matrix) |
 | [0867-transpose-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
