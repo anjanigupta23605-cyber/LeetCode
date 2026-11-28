@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0169-majority-element) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0073-set-matrix-zeroes) |
 | [0867-transpose-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/0867-transpose-matrix) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/anjanigupta23605-cyber/LeetCode/tree/master/1572-matrix-diagonal-sum) |
